@@ -1,2 +1,3 @@
-Webscraping de vagas de emprego em Moçambique.
-Scraping dos principais canais de  anúncios de vagas públicas.
+Web Crwling de Vagas de emprego em Mozmbique
+
+Codigo para busca de vahas nos principais  sites de vagas publicas em Mozambique.
