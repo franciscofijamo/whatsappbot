@@ -1,0 +1,39 @@
+2020/04/15-16:41:10.991 2c9c Reusing MANIFEST C:\Users\AL\Documents\2020 - Programacao\Training Python\chatbot\chatbot\profile\wpp\Default\Local Storage\leveldb/MANIFEST-000001
+2020/04/15-16:41:10.992 2c9c Recovering log #3
+2020/04/15-16:41:10.993 2c9c Reusing old log C:\Users\AL\Documents\2020 - Programacao\Training Python\chatbot\chatbot\profile\wpp\Default\Local Storage\leveldb/000003.log 
+2020/04/15-16:53:14.896 46c4 Level-0 table #5: started
+2020/04/15-16:53:14.941 46c4 Level-0 table #5: 18645 bytes OK
+2020/04/15-16:53:14.976 46c4 Delete type=0 #3
+2020/04/15-19:07:14.884 46c4 Level-0 table #7: started
+2020/04/15-19:07:15.002 46c4 Level-0 table #7: 15768 bytes OK
+2020/04/15-19:07:15.048 46c4 Delete type=0 #4
+2020/04/15-19:21:14.918 46c4 Level-0 table #9: started
+2020/04/15-19:21:15.095 46c4 Level-0 table #9: 30931 bytes OK
+2020/04/15-19:21:15.141 46c4 Delete type=0 #6
+2020/04/15-19:22:48.020 46c4 Level-0 table #11: started
+2020/04/15-19:22:48.185 46c4 Level-0 table #11: 34410 bytes OK
+2020/04/15-19:22:48.221 46c4 Delete type=0 #8
+2020/04/15-19:23:31.454 46c4 Level-0 table #13: started
+2020/04/15-19:23:32.064 46c4 Level-0 table #13: 29738 bytes OK
+2020/04/15-19:23:32.154 46c4 Delete type=0 #10
+2020/04/15-19:27:24.718 46c4 Level-0 table #15: started
+2020/04/15-19:27:24.962 46c4 Level-0 table #15: 187162 bytes OK
+2020/04/15-19:27:25.052 46c4 Delete type=0 #12
+2020/04/15-19:27:25.052 46c4 Compacting 4@0 + 1@1 files
+2020/04/15-19:27:25.120 46c4 Generated table #16@0: 89 keys, 281373 bytes
+2020/04/15-19:27:25.120 46c4 Compacted 4@0 + 1@1 files => 281373 bytes
+2020/04/15-19:27:25.151 46c4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/04/15-19:27:25.151 46c4 Delete type=2 #7
+2020/04/15-19:27:25.151 46c4 Delete type=2 #9
+2020/04/15-19:27:25.151 46c4 Delete type=2 #11
+2020/04/15-19:27:25.151 46c4 Delete type=2 #13
+2020/04/15-19:27:25.151 46c4 Delete type=2 #15
+2020/04/15-19:31:14.883 46c4 Level-0 table #18: started
+2020/04/15-19:31:14.917 46c4 Level-0 table #18: 328502 bytes OK
+2020/04/15-19:31:14.946 46c4 Delete type=0 #14
+2020/04/15-20:14:15.037 46c4 Level-0 table #20: started
+2020/04/15-20:14:15.679 46c4 Level-0 table #20: 26476 bytes OK
+2020/04/15-20:14:16.133 46c4 Delete type=0 #17
+2020/04/15-22:16:14.910 46c4 Level-0 table #22: started
+2020/04/15-22:16:15.046 46c4 Level-0 table #22: 23498 bytes OK
+2020/04/15-22:16:15.185 46c4 Delete type=0 #19

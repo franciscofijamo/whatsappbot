@@ -1,0 +1,97 @@
+[1mdiff --git a/bot.py b/bot.py[m
+[1mindex 63acdd6..2c30f18 100644[m
+[1m--- a/bot.py[m
+[1m+++ b/bot.py[m
+[36m@@ -1 +1,91 @@[m
+[31m-print("Its Okay")[m
+[32m+[m[32mfrom selenium import webdriver[m
+[32m+[m[32mfrom selenium.webdriver.chrome.options import Options[m
+[32m+[m[32mimport os[m
+[32m+[m[32mfrom selenium.webdriver.common.keys import Keys[m
+[32m+[m[32mfrom selenium.webdriver.common.action_chains import ActionChains[m
+[32m+[m[32mimport time[m
+[32m+[m
+[32m+[m[32mfrom chatterbot import ChatBot[m
+[32m+[m[32mfrom chatterbot.trainers import ChatterBotCorpusTrainer[m
+[32m+[m[32mfrom chatterbot.trainers import ListTrainer[m
+[32m+[m[32m#[m
+[32m+[m[32m# instance chatbot[m
+[32m+[m[32mchatbot = ChatBot('bot')[m
+[32m+[m[32mtrainer = ChatterBotCorpusTrainer(chatbot)[m
+[32m+[m[32mtrainer.train('chatterbot.corpus.portuguese')[m
+[32m+[m[32mtrainerer = ListTrainer(chatbot)[m
+[32m+[m
+[32m+[m
+[32m+[m[32mdir_path = os.getcwd()[m
+[32m+[m[32mchrome_option2 = Options()[m
+[32m+[m[32mchrome_option2.add_argument(r"user-data-dir ="+dir_path+"/profile/wpp")[m
+[32m+[m
+[32m+[m
+[32m+[m[32mdriver = webdriver.Chrome(dir_path+'/chromedriver.exe', chrome_options = chrome_option2)[m
+[32m+[m[32mdriver.get('https://web.whatsapp.com/')[m
+[32m+[m[32mdriver.implicitly_wait(15)[m
+[32m+[m
+[32m+[m[32mdef take_the_chat():[m
+[32m+[m[32m    try:[m
+[32m+[m[32m        post = driver.find_element_by_class_name("_3zb-j")[m
+[32m+[m[32m        last = len(post)-1[m
+[32m+[m[32m        the_text = post[last].find_element_by_css_selector("span._3FXB1.selectable-text").text[m
+[32m+[m[32m        return the_text[m
+[32m+[m[32m    except:[m
+[32m+[m[32m        pass[m
+[32m+[m
+[32m+[m[32mdef sendMessage(message):[m
+[32m+[m[32m    input_text = driver.find_element_by_class_name("_2S1VP")[m
+[32m+[m[32m    caixadetexto = driver.find_elements_by_xpath($0)[m
+[32m+[m[32m    respond = "*EU:*"+str(message)[m
+[32m+[m
+[32m+[m
+[32m+[m[32m    for part in respond.split("\n"):[m
+[32m+[m[32m        input_text.send_keys(part)[m
+[32m+[m[32m        # ActionChains.driver.send_keys[m
+[32m+[m[32m        ActionChains.driver.send_down(Keys.SHIFT).key_down(Keys.ENTER).key_up(Keys.SHIFT).perfom()[m
+[32m+[m[32m    time.sleep(0.5)[m
+[32m+[m[32m    botton_send = driver.find_element_by_class_name("_35EW6")[m
+[32m+[m
+[32m+[m[32m    driver.find_element_by[m
+[32m+[m[32m    botton_send.click()[m
+[32m+[m[32m#[m
+[32m+[m[32m# treining message[m
+[32m+[m[32mdef train(message):[m
+[32m+[m[32m    response = 'Como respondo isso? Me ensina com *//* e a resposta que devo aprender, ou ! para desactivar meu aprendizado'+str(message)[m
+[32m+[m[32m    sendText(response)[m
+[32m+[m[32m    novo = [] #add treining[m
+[32m+[m[32m    try:[m
+[32m+[m[32m        while True:[m
+[32m+[m[32m            last_message = take_the_chat()[m
+[32m+[m[32m            if last_message == "!":[m
+[32m+[m[32m                sendMessage("Voce desactivou meu aprendizado :'( ")[m
+[32m+[m[32m                break[m
+[32m+[m[32m            elif last_message.replace("//", "") != "" and last_message != message and last_message[0] == "//":[m
+[32m+[m[32m                auxiliar = last_message[m
+[32m+[m
+[32m+[m[32m                novo.append(message.lower().strip())[m
+[32m+[m[32m                novo.append(last_message.replace("//", "").strip())[m
+[32m+[m[32m                trainerer.train(novo)[m
+[32m+[m[32m                print(message.lower().strip())[m
+[32m+[m[32m                print(last_message.replace('//', '').strip())[m
+[32m+[m[32m                sendMessage("Entao aprendi com sucesso")[m
+[32m+[m[32m                break[m
+[32m+[m[32m    except:[m
+[32m+[m[32m        pass[m
+[32m+[m
+[32m+[m[32msalva = take_the_chat()[m
+[32m+[m
+[32m+[m[32mwhile True:[m
+[32m+[m[32m    try:[m
+[32m+[m[32m        if take_the_chat() != "" and take_the_chat()[:4] != "Eu: " and take_the_chat() != salva and take_the_chat() != "!" and take_the_chat() != "//":[m
+[32m+[m[32m            texto = str(take_the_chat().lower().strip())[m
+[32m+[m[32m            responder = chatbot.get_response(texto)[m
+[32m+[m[32m            if float(responde.confidence) < 0.5 :[m
+[32m+[m[32m                train(take_the_chat())[m
+[32m+[m[32m            else:[m
+[32m+[m[32m                sendMessage(resposta)[m
+[32m+[m[32m        else:[m
+[32m+[m[32m            pass[m
+[32m+[m[32m    except:[m
+[32m+[m[32m        pass[m

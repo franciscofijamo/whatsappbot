@@ -1,0 +1,69 @@
+2020/04/15-16:41:14.944 2c9c Reusing MANIFEST C:\Users\AL\Documents\2020 - Programacao\Training Python\chatbot\chatbot\profile\wpp\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/04/15-16:41:14.945 2c9c Recovering log #4
+2020/04/15-16:41:14.995 2c9c Reusing old log C:\Users\AL\Documents\2020 - Programacao\Training Python\chatbot\chatbot\profile\wpp\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000004.log 
+2020/04/15-17:25:51.875 5118 Level-0 table #8: started
+2020/04/15-17:25:52.171 5118 Level-0 table #8: 1302082 bytes OK
+2020/04/15-17:25:52.214 5118 Delete type=0 #4
+2020/04/15-17:26:36.869 5118 Compacting 1@1 + 1@2 files
+2020/04/15-17:26:37.089 5118 Generated table #9@1: 18401 keys, 842455 bytes
+2020/04/15-17:26:37.090 5118 Compacted 1@1 + 1@2 files => 842455 bytes
+2020/04/15-17:26:37.144 5118 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/04/15-17:26:37.144 5118 Delete type=2 #5
+2020/04/15-17:26:37.144 5118 Delete type=2 #8
+2020/04/15-18:52:16.117 5118 Level-0 table #11: started
+2020/04/15-18:52:17.686 5118 Level-0 table #11: 1308321 bytes OK
+2020/04/15-18:52:17.976 5118 Delete type=0 #7
+2020/04/15-18:54:22.271 5118 Compacting 1@1 + 1@2 files
+2020/04/15-18:54:24.084 5118 Generated table #12@1: 26817 keys, 1235471 bytes
+2020/04/15-18:54:24.084 5118 Compacted 1@1 + 1@2 files => 1235471 bytes
+2020/04/15-18:54:24.135 5118 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/04/15-18:54:24.136 5118 Delete type=2 #9
+2020/04/15-18:54:24.136 5118 Delete type=2 #11
+2020/04/15-19:33:06.118 5118 Level-0 table #14: started
+2020/04/15-19:33:06.706 5118 Level-0 table #14: 1400520 bytes OK
+2020/04/15-19:33:06.817 5118 Delete type=0 #10
+2020/04/15-19:33:07.727 5118 Compacting 1@1 + 1@2 files
+2020/04/15-19:33:08.539 5118 Generated table #15@1: 32601 keys, 1541691 bytes
+2020/04/15-19:33:08.539 5118 Compacted 1@1 + 1@2 files => 1541691 bytes
+2020/04/15-19:33:08.602 5118 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/04/15-19:33:08.602 5118 Delete type=2 #12
+2020/04/15-19:33:08.602 5118 Delete type=2 #14
+2020/04/15-20:31:58.953 5118 Level-0 table #17: started
+2020/04/15-20:32:00.161 5118 Level-0 table #17: 1373665 bytes OK
+2020/04/15-20:32:00.416 5118 Delete type=0 #13
+2020/04/15-20:32:49.994 5118 Compacting 1@1 + 1@2 files
+2020/04/15-20:32:51.011 5118 Generated table #18@1: 37595 keys, 1803073 bytes
+2020/04/15-20:32:51.011 5118 Compacted 1@1 + 1@2 files => 1803073 bytes
+2020/04/15-20:32:51.073 5118 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/04/15-20:32:51.088 5118 Delete type=2 #15
+2020/04/15-20:32:51.088 5118 Delete type=2 #17
+2020/04/15-21:49:50.522 5118 Level-0 table #20: started
+2020/04/15-21:49:50.854 5118 Level-0 table #20: 1303933 bytes OK
+2020/04/15-21:49:50.950 5118 Delete type=0 #16
+2020/04/15-21:50:27.945 5118 Compacting 1@1 + 1@2 files
+2020/04/15-21:50:29.482 5118 Generated table #21@1: 43144 keys, 2074452 bytes
+2020/04/15-21:50:29.482 5118 Compacted 1@1 + 1@2 files => 2074452 bytes
+2020/04/15-21:50:29.585 5118 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/04/15-21:50:29.585 5118 Delete type=2 #18
+2020/04/15-21:50:29.585 5118 Delete type=2 #20
+2020/04/15-22:18:36.869 5118 Level-0 table #23: started
+2020/04/15-22:18:37.690 5118 Level-0 table #23: 1305247 bytes OK
+2020/04/15-22:18:37.913 5118 Delete type=0 #19
+2020/04/15-22:18:55.854 5118 Compacting 1@1 + 1@2 files
+2020/04/15-22:18:58.040 5118 Generated table #24@1: 48525 keys, 2259516 bytes
+2020/04/15-22:18:58.197 5118 Generated table #25@1: 138 keys, 71189 bytes
+2020/04/15-22:18:58.197 5118 Compacted 1@1 + 1@2 files => 2330705 bytes
+2020/04/15-22:18:58.329 5118 compacted to: files[ 0 0 2 0 0 0 0 ]
+2020/04/15-22:18:58.372 5118 Delete type=2 #21
+2020/04/15-22:18:58.372 5118 Delete type=2 #23
+2020/04/16-01:35:56.922 5118 Level-0 table #27: started
+2020/04/16-01:35:57.920 5118 Level-0 table #27: 1314616 bytes OK
+2020/04/16-01:35:58.128 5118 Delete type=0 #22
+2020/04/16-01:48:12.847 5118 Compacting 1@1 + 2@2 files
+2020/04/16-01:48:14.319 5118 Generated table #28@1: 48039 keys, 2234137 bytes
+2020/04/16-01:48:15.277 5118 Generated table #29@1: 6071 keys, 365892 bytes
+2020/04/16-01:48:15.277 5118 Compacted 1@1 + 2@2 files => 2600029 bytes
+2020/04/16-01:48:15.326 5118 compacted to: files[ 0 0 2 0 0 0 0 ]
+2020/04/16-01:48:15.416 5118 Delete type=2 #24
+2020/04/16-01:48:15.439 5118 Delete type=2 #25
+2020/04/16-01:48:15.439 5118 Delete type=2 #27

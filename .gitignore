@@ -1,0 +1,8 @@
+
+
+chromedriver.exe
+*.sqlite3
+*.log
+*.cfg
+*.pickle
+git clear

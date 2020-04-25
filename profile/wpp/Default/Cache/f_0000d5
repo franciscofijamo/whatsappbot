@@ -1,0 +1,1216 @@
+
+<!doctype html>
+<html lang="en">
+<head>
+    <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><![endif]-->
+    <title>Mais como Jesus: Amabilidade | Espaço dos Diretores</title>
+
+    <meta charset="utf-8">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <script type='text/javascript' src='https://code.jquery.com/jquery-1.11.0.min.js'></script>
+
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link rel="stylesheet" href="/static/css/style.css" media="all">
+    <link href='https://fonts.googleapis.com/css?family=Philosopher:400,700,400italic,700italic|Oswald:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Crimson+Text">
+    <link rel="alternate" href="/pt/rss/" type="application/rss+xml" title="Últimos Posts" />
+    
+
+    <script type="text/javascript" src="/static/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="/static/js/utils.js"></script>
+
+    <script type='text/javascript'>
+        $(document).ready(function () {
+          $('[data-toggle="offcanvas"]').click(function () {
+            var offcanvas = $('.row-offcanvas');
+            $(offcanvas).toggleClass('active');
+            if ($(offcanvas).hasClass('active'))
+            {
+                $('#left-toggle').css('display', 'none');
+                $('#right-toggle').css('display', 'inline');
+            }
+            else
+            {
+                $('#left-toggle').css('display', 'inline');
+                $('#right-toggle').css('display', 'none');
+            }
+          });
+        });
+    </script>
+
+    
+<script type='text/javascript'>
+    $(document).ready(function () {
+
+        $( window ).resize(function() {
+            adjust_audio_video();
+            adjust_images();
+        });
+
+        adjust_audio_video();
+        adjust_images();
+    });
+</script>
+<script src="/static/js/swfobject.js"></script>
+
+    
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-17382818-5"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-17382818-5', { 'anonymize_ip': true });
+    </script>
+
+
+</head>
+
+<!--[if lt IE 7 ]> <body id="top" class="ie6"> <![endif]-->
+<!--[if IE 7 ]>    <body id="top" class="ie7"> <![endif]-->
+<!--[if IE 8 ]>    <body id="top" class="ie8"> <![endif]-->
+<!--[if IE 9 ]>    <body id="top" class="ie9"> <![endif]-->
+<!--[if gt IE 9]>  <body id="top">             <![endif]-->
+<!--[if !IE]><!--> <body id="top">         <!--<![endif]-->
+
+<div id="header-full-width-background">
+</div>
+
+<div class="container">
+
+    
+    <div id="pageheader" class="row">
+        <div class="col-xs-6" id="logo">
+            
+            <a href="/pt/"><img src="/static/images/logopt.png" /></a>
+        </div>
+        <div class="col-xs-6">
+            <div class="clearfix">
+                <div id="zlogin">
+                    
+                    <a id="zlogin-logo" href="/pt/login/" ></a><a id="zlogin-link" href="/pt/login/" >Faça seu login</a>
+                    
+                </div>
+                <div id="tfionline">
+                    <a id="tfionline-link" href="https://tfionline.com"><span id="tfionline-link-green">tfi</span><span id="tfionline-link-not-green">online</span></a>
+                </div>
+            </div>
+            <div id="search">
+                <form method="" action="/pt/search/" id="search-form" name="search_form" />
+                    <input type="text" id="query" name="query" value="buscar..." onFocus="this.value=''" />
+                    <input type="submit" id="search-submit" name="search_submit" value="ok" />
+                </form>
+            </div>
+        </div>
+    </div>
+    
+
+    <div id="container">
+    
+    <div class="row row-offcanvas row-offcanvas-right">
+
+        <div class="col-xs-12 col-sm-9 article">
+            <div class="hidden-print">
+                <p class="pull-right visible-xs">
+                    <button type="button" class="btn btn-primary btn-xs" data-toggle="offcanvas"><span id="left-toggle" class="glyphicon glyphicon-chevron-left"></span>alternar barra<span id="right-toggle" class="glyphicon glyphicon-chevron-right"></span></button>
+                </p>
+            </div>
+
+            
+<div id="post">
+    <div class="row">
+        <div class="hidden-xs col-sm-3">
+            <div class="credit-with-photo">
+                <div class="credit-photo"><img src="/pt/photo/Peter1.jpg" /></div>
+                <p><span>Agosto 22, 2017</span></p>
+                <p><span><em>por</em></span> Peter Amsterdam</p>
+            </div>
+        </div>
+
+        <div class="col-xs-12 col-sm-9">
+            <div id="content">
+                <div class="visible-xs clearfix">
+                    <div class="credit-with-photo">
+                        <div class="credit-photo"><img src="/pt/photo/Peter1.jpg" /></div>
+                    </div>
+                    <div>
+                        <h2>Mais como Jesus: Amabilidade</h2>
+                        <div class="date-and-credit">
+                            <p><span>Agosto 22, 2017</span></p>
+                            <p><span>por</span> Peter Amsterdam</p>
+                        </div>
+                    </div>
+                </div>
+
+        		<div>
+                    <div class="image-big"><img src="/pt/photo/pt_MLJ_Gentleness.jpg" /></div>
+        			<h2 class="hidden-xs">Mais como Jesus: Amabilidade</h2>
+                    <p>[More Like Jesus: Gentleness]</p>
+<p>Um aspecto da natureza de Cristo menos abordado é a amabilidade. É de se estranhar, pois ao longo das Escrituras esse atributo é citado com frequência tanto em relação a Jesus quanto ao Seu Pai e está relacionado como um dos frutos do Espírito Santo.</p>
+<p class="indent"><em>Mas o fruto do Espírito é amor, alegria, paz, paciência, amabilidade… Contra essas coisas não há lei.</em><a title="" name="_ftnref1" href="#_ftn1"><sup>[1]</sup></a></p>
+<p>Ao descrever o poder de Deus, o profeta Isaías fez menção à Sua amabilidade:</p>
+<p class="indent"><em>O Senhor Deus virá com poder, e o Seu braço dominará… Como pastor apascentará o seu rebanho: Nos seus braços recolherá os cordeirinhos, e os levará no seu regaço; as que amamentam, ele guiará mansamente </em>[com amabilidade].<a title="" name="_ftnref2" href="#_ftn2"><sup>[2]</sup></a></p>
+<p>O rei Davi, exaltando o Senhor por tudo que Este fizera, disse: <em>Também me dás o escudo da vitória, e a tua mão direita me sustém; a tua clemência</em> [amabilidade]<em> me engrandece.</em><a title="" name="_ftnref3" href="#_ftn3"><sup>[3]</sup></a><em> </em>O apóstolo Paulo escreveu sobre a amabilidade de Jesus em sua carta aos cristãos de Corinto: <em>Eu, Paulo, pela mansidão e pela bondade</em> [amabilidade]<em> de Cristo.</em><a title="" name="_ftnref4" href="#_ftn4"><sup>[4]</sup></a></p>
+<p>Conforme buscamos praticar a Palavra de Deus em nosso desejo de nos tornarmos como Jesus, com frequência pedimos a Deus humildade, paciência, domínio próprio, a capacidade de resistir a pecados recorrentes, etc. Contudo, raramente oramos para nos tornarmos mais amáveis. Pelo menos é o que me acontece. A amabilidade é muitas vezes mais associada à disposição natural de uma pessoa do que a uma virtude cristã. É comum classificar como pecado a falta de domínio próprio, o orgulho ou a impaciência, mas não a falta de gentileza ou de amabilidade. Até recentemente, eu jamais havia orado pelo fruto espiritual da amabilidade em minha vida.</p>
+<p>O que é amabilidade? O Novo Testamento em grego usa algumas palavras para expressar amabilidade. A primeira é <em>epieikeia</em>, geralmente traduzida como gentileza ou amabilidade, e traz o sentido de cuidado, consideração e compaixão, cuja antítese seria a exigência ríspida pelos seus próprios direitos. Sugere a capacidade de buscar a paz com calma.<a title="" name="_ftnref5" href="#_ftn5"><sup>[5]</sup></a> A segunda palavra, usada por Paulo na lista de frutos do Espírito, é <em>praotēs.</em> Esta remetia ao mundo médico, no sentido de um medicamento suave, algo que não prejudicaria o estômago. Era também usado em referência a animais amansados. O estudioso Randy Frazee explica:</p>
+<p class="indent"><em>Pense em um cavalo. É um animal que pesa, em média, 400 quilos e pode causar ferimentos graves a um homem ou até matá-lo. Entretanto, de um modo geral, podemos nos aproximar dos cavalos, acariciá-los, cavalgá-los e os considerar mansos. Isso reflete o poder e a força do animal? Não. É uma indicação de sua natureza, ou do que se tornou após ser treinado. Esse comportamento da parte do cavalo reflete a escolha de deixar seu poder e força ser controlado. Uma pessoa amável não é fraca, mas alguém que é forte, seguro e maduro. Usa sua força para enfrentar os verdadeiros gigantes e desafios de sua vida, mas escolhe não coicear ou pisotear os outros</em>.<a title="" name="_ftnref6" href="#_ftn6"><sup>[6]</sup></a></p>
+<p>A amabilidade é o poder sob controle. Como o cavalo, cada um de nós tem poder. Podemos usar nossas palavras e ações para magoar, humilhar ou desanimar as pessoas. Ou, pela amabilidade, podemos canalizar esse poder para ajudar, enlevar, influenciar para o bem. Mesmo quando precisamos corrigir ou punir alguém, podemos fazê-lo de maneira amorosa e animadora. Paulo escreveu:</p>
+<p class="indent"><em>Irmãos, se alguém for surpreendido nalguma ofensa, vós, que sois espirituais, corrigi o tal com espírito de mansidão</em>.<a title="" name="_ftnref7" href="#_ftn7"><sup>[7]</sup></a></p>
+<p>A amabilidade é muitas vezes considerada um sinônimo de mansidão, e de fato são similares. Uma diferença a ser considerada, entretanto, é que a amabilidade é uma virtude ativa, que descreve a maneira que tratamos os outros; a mansidão é passiva, pois se refere a uma reação que devemos ter quando somos tratados mal. A mansidão é brandura, força controlada, a capacidade de suportar insultos e desprezos sem se ressentir. O termo amabilidade designa principalmente a capacidade de demonstrar ativamente bondade e ternura para com os outros, em uma demonstração de interesse e desvelo.</p>
+<p>A amabilidade é manifestada na nossa atitude de consideração e bondade para com os outros, na cortesia que expressamos. Está presente no temperamento brando no esforço para que as pessoas à nossa volta se sintam felizes, amadas e cuidadas. Uma pessoa amável é suave, considerada e amigável. É alguém que não usa força para conseguir que algo seja feito, mas em suas interações é humilde e genuinamente terna com os demais.</p>
+<p>A amabilidade pode ser um conceito difícil principalmente para os homens, pois não se espera que eles sejam amáveis, mas “másculos”. A amabilidade é muitas vezes vista como sinal de fraqueza, o oposto da agressividade, dureza e inflexibilidade. Entretanto, longe de ser um ponto fraco, a amabilidade é o poder dominado e usado com sabedoria e amor. Vemos esse conceito expresso em versículos como estes:</p>
+<p class="indent"><em>A resposta branda desvia o furor, mas a palavra dura suscita a ira.</em><a title="" name="_ftnref8" href="#_ftn8"><sup>[8]</sup></a></p>
+<p class="indent"><em>Pela paciência se persuade o príncipe, e a língua branda quebranta os ossos</em>.<a title="" name="_ftnref9" href="#_ftn9"><sup>[9]</sup></a></p>
+<p>Quem se comporta com amabilidade se levanta em defesa da verdade e do que é certo, fazem-no com humildade e graça. A amabilidade deve ser aplicada quando testemunhamos, ensinamos ou explicamos nossa fé.</p>
+<p class="indent"><em>Estai sempre preparados para responder com mansidão e temor a todo aquele que vos pedir a razão da esperança que há em vós</em>.<a title="" name="_ftnref10" href="#_ftn10"><sup>[10]</sup></a></p>
+<p class="indent"><em>E ao servo do Senhor não convém contender, mas sim ser brando para com todos, apto para ensinar, paciente; corrigindo com mansidão os que resistem</em>.<a title="" name="_ftnref11" href="#_ftn11"><sup>[11]</sup></a></p>
+<p>Ser amável na nossa fala requer o poder do Espírito Santo, especialmente quando nos vemos em alguma confrontação ou lidando com opiniões diferentes. Nesses momentos é fácil perder a cabeça e falar com raiva e aspereza. Entretanto, a amabilidade nos permite reagir com ternura para com os outros e mostrar bondade.</p>
+<p>É bom lembrar a amabilidade de Jesus, que pode ser vista em situações tais como Sua interação com a mulher do poço. Ela tivera cinco maridos e vivia com alguém que não era seu marido, mas Jesus não a condenou, mas a tratou com amor e respeito.<a title="" name="_ftnref12" href="#_ftn12"><sup>[12]</sup></a> Quando lemos a história da mulher pega em adultério, vemos que Jesus não a condenou, mas a amou e perdoou em amabilidade.<a title="" name="_ftnref13" href="#_ftn13"><sup>[13]</sup></a> Diante da aspereza da Marta com Maria, sua irmã, tratou a situação com amabilidade.<a title="" name="_ftnref14" href="#_ftn14"><sup>[14]</sup></a></p>
+<p>Vemos a amabilidade de Deus ao perdoar nossos pecados, na misericórdia que Ele derramou sobre nós, em Sua longanimidade e fidelidade para conosco. Ele é terno e gentil conosco. É chamado <em>Pai das misericórdias e o Deus de toda a consolação</em>.<a title="" name="_ftnref15" href="#_ftn15"><sup>[15]</sup></a> Se quisermos crescer em amabilidade, devemos procurar pensar na Sua amabilidade e louvá-lO pela bondade que nos mostra diariamente. Isso pode nos lembrar que também devemos ser amáveis com os outros, como Ele o é conosco.</p>
+<p>Ser amável não é o mesmo de ser bobo ou ingênuo. Jesus disse aos Seus discípulos para serem sábios como serpentes e inofensivos como pombas.<a title="" name="_ftnref16" href="#_ftn16"><sup>[16]</sup></a> Não devemos deixar as pessoas se aproveitarem de nós, manipulando-nos para seus próprios fins. Tampouco precisamos ceder em questões nas quais devemos ser firmes e intransigentes. Podemos ser amáveis em nossa abordagem, inclusive quando temos de nos posicionar com respeito a questões morais. Se quisermos ser mais como Jesus, a amabilidade deve ser parte do nosso caráter. A amabilidade deve ser aplicada com sabedoria.<a title="" name="_ftnref17" href="#_ftn17"><sup>[17]</sup></a> Jesus disse:</p>
+<p class="indent"><em>Tomai sobre vós o meu jugo, e aprendei de mim, porque sou manso e humilde de coração, e encontrareis descanso para as vossas almas.</em><a title="" name="_ftnref18" href="#_ftn18"><sup>[18]</sup></a></p>
+<p>Como a amabilidade se manifesta? Demonstra respeito pela dignidade pessoal dos outros. É atenta ao fato de que os outros podem ser diferentes de nós, com outras opiniões, sentimentos, etc. A amabilidade demonstra respeito pelas diferenças. Evita falar ou agir com aspereza, mas busca interagir com todos com sensibilidade e respeito, mostrando consideração para todos. Quando necessário, buscará mudar uma opinião errada pela persuasão e bondade, em vez de recorrer à intimidação. É sensível às reações dos outros, levando em conta como o que é dito pode afetá-los. A pessoa amável não se sente ameaçada pela oposição nem se ressente dela. Esforça-se para ensinar com gentileza e busca Deus para que dissolva a oposição. A amabilidade não recorre à degradação, não busca minimizar os outros nem fazer fofocas. Se alguém precisa de orientação e correção, oferecerá essas coisas com o propósito de restaurar essa pessoa com gentileza. Ser amável é se importar com os outros, buscar ativamente fazê-los se sentir à vontade à nossa volta, tratando-as como gostaríamos de ser tratados, com amor, respeito e bondade.<a title="" name="_ftnref19" href="#_ftn19"><sup>[19]</sup></a></p>
+<p>O apóstolo Paulo instruiu:</p>
+<p class="indent"><em>Rogo-vos que andeis como é digno da vocação com que fostes chamados, com toda humildade e mansidão, com longanimidade, suportando-vos uns aos outros em amor, procurando guardar a unidade do Espírito no vínculo da paz.</em><a title="" name="_ftnref20" href="#_ftn20"><sup>[20]</sup></a></p>
+<p>Ele também exorta os crentes: <em>A ninguém infamem, nem sejam contenciosos, mas cordatos, mostrando toda a mansidão para com todos os homens.</em><a title="" name="_ftnref21" href="#_ftn21"><sup>[21]</sup></a> Em outra passagem, lemos:</p>
+<p class="indent"><em>Mas tu, ó homem de Deus, … e segue a justiça, a piedade, a fé, o amor, a paciência, a mansidão.</em><a title="" name="_ftnref22" href="#_ftn22"><sup>[22]</sup></a></p>
+<p>Às vezes, é mais difícil ser amável com as pessoas que nos são mais próximas. Temos mais contato com suas falhas, manias e hábitos que nos incomodam. Podemos ficar ríspidos e impacientes. Entretanto, nossa família e aqueles que mais amamos merecem nossa amabilidade, paciência, desvelo e consideração. É bom lembrar que nós também temos muitos defeitos, maus hábitos e manias, os quais são ignorados e tolerados por pessoas bondosas. Isso nos ajuda a sermos amáveis com os outros.</p>
+<p>Recentemente li um artigo em um blog escrito por alguém que tinha problemas em sua comunicação com sua família e amigos, pelo que decidiu fazer um “jejum de sarcasmo” para mudar a maneira como falava com os outros. Se tendemos a ser críticos, ríspidos e destacar os defeitos e fraquezas dos outros; se for fácil nos irritarmos ou ficarmos impaciente com as ideias e perspectivas alheias, então precisamos pedir a ajuda do Espírito Santo para nos tornarmos mais amáveis.</p>
+<p>Pergunte-se quanto a amabilidade está presente em sua vida e no seu relacionamento com os outros. Suas atitudes, ações, comportamento e conversas transmitem amabilidade? Se não, deve levar isso em oração e definir ações para cultivar esse fruto do Espírito em sua vida.</p>
+<p>É bom lembrar que Deus é sempre tão amável conosco. Ele nos amou, enviou Seu filho para morrer por nós e nos concedeu a dádiva da salvação. Não tivemos de merecê-la ou trabalhar por ela. Foi uma dádiva que nos foi concedida. Que esse fruto do Espírito se manifeste em nossas vidas. Que a amabilidade de Jesus brilhe em nós e que reflitamos Seu amor para os outros.</p>
+<hr />
+<h3><strong>Nota</strong></h3>
+<p>A menos que indicado o contrário, todas as referências às Escrituras foram extraídas da “Bíblia Sagrada” — Tradução de João Ferreira de Almeida — Edição Contemporânea, Copyright © 1990, por Editora Vida.</p>
+<div><hr />
+<div>
+<p><a title="" name="_ftn1" href="#_ftnref1"><sup>[1]</sup></a> Gálatas 5:22–23 - NVI</p>
+<p><a title="" name="_ftn2" href="#_ftnref2"><sup>[2]</sup></a> Isaías 40:10–11.</p>
+<p><a title="" name="_ftn3" href="#_ftnref3"><sup>[3]</sup></a> Salmo 18:35.</p>
+<p><a title="" name="_ftn4" href="#_ftnref4"><sup>[4]</sup></a> 2 Coríntios 10:1.</p>
+<p><a title="" name="_ftn5" href="#_ftnref5"><sup>[5]</sup></a> Randy Frazee, <em>Think, Act, Be Like Jesus</em> (Grand Rapids: Zondervan, 2014), 210.</p>
+<p><a title="" name="_ftn6" href="#_ftnref6"><sup>[6]</sup></a> Ibid., 210.</p>
+<p><a title="" name="_ftn7" href="#_ftnref7"><sup>[7]</sup></a> Gálatas 6:1.</p>
+<p><a title="" name="_ftn8" href="#_ftnref8"><sup>[8]</sup></a> Provérbios 15:1.</p>
+<p><a title="" name="_ftn9" href="#_ftnref9"><sup>[9]</sup></a> Provérbios 25:15.</p>
+<p><a title="" name="_ftn10" href="#_ftnref10"><sup>[10]</sup></a> 1 Pedro 3:15.</p>
+<p><a title="" name="_ftn11" href="#_ftnref11"><sup>[11]</sup></a> 2 Timóteo 2:24–25.</p>
+<p><a title="" name="_ftn12" href="#_ftnref12"><sup>[12]</sup></a> João 4:4–29.</p>
+<p><a title="" name="_ftn13" href="#_ftnref13"><sup>[13]</sup></a> João 8:1–11.</p>
+<p><a title="" name="_ftn14" href="#_ftnref14"><sup>[14]</sup></a> Lucas 10:40–42.</p>
+<p><a title="" name="_ftn15" href="#_ftnref15"><sup>[15]</sup></a> 2 Coríntios 1:3.</p>
+<p><a title="" name="_ftn16" href="#_ftnref16"><sup>[16]</sup></a> Mateus 10:16. Algumas versões da Bíblia preferem as expressões <em>símplices, sem malícia ou sem maldade </em>a <em>inofensivos</em>.</p>
+<p><a title="" name="_ftn17" href="#_ftnref17"><sup>[17]</sup></a> Pontos extraídos de um sermão pregado em 2006 pelo Rev. Charles Seet.</p>
+<p><a title="" name="_ftn18" href="#_ftnref18"><sup>[18]</sup></a> Mateus 11:29.</p>
+<p><a title="" name="_ftn19" href="#_ftnref19"><sup>[19]</sup></a> Estes pontos foram extraídos de <em>The Practice of Godliness, </em>Jerry Bridges (Colorado Springs: NavPress, 2010), 206–7.</p>
+<p><a title="" name="_ftn20" href="#_ftnref20"><sup>[20]</sup></a> Efésios 4:1–3.</p>
+<p><a title="" name="_ftn21" href="#_ftnref21"><sup>[21]</sup></a> Tito 3:2.</p>
+<p><a title="" name="_ftn22" href="#_ftnref22"><sup>[22]</sup></a> 1 Timóteo 6:11.</p>
+</div>
+</div>
+<p> </p>
+                </div>
+            </div> <!--/content-->
+
+            <footer>
+                <div id="tools">
+                    <p id="tool-download"><a href="/pt/download_post/648/">Baixar texto</a><span>|</span></p>
+                    <p id="tool-print"><a href="javascript:window.print()">Imprimir artigo</a><span>|</span></p>
+                    <p id="articletags">
+                    
+                    <a href="/pt/tag/frutos-do-espirito/">frutos do espírito</a>,
+                    
+                    <a href="/pt/tag/gentileza/">gentileza</a>,
+                    
+                    <a href="/pt/tag/mais-como-jesus/">mais como jesus</a>,
+                    
+                    <a href="/pt/tag/natureza-de-cristo/">natureza de cristo</a>,
+                    
+                    <a href="/pt/tag/peter/">peter amsterdam</a>,
+                    
+                    <a href="/pt/tag/relacionamento-com-o-senhor/">relacionamento com o senhor</a>
+                    
+                    </p>
+                </div>
+            </footer>
+        </div>
+    </div>
+</div> <!--/latest post-->
+
+
+        </div> <!--/left outter column-->
+
+        
+        <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
+            <nav id="nav">
+                <h2 class="visuallyhidden">Navegação</h2>
+                <dl>
+                    
+	<dt class="first"><span><a href="/pt/archive/">Ver todos</a></span>Últimos Posts</dt>
+	
+	
+		<dd><a href="/pt/post/caes-uma-das-maravilhas-de-deus/">Cães: Uma das Maravilhas de Deus</a></dd>
+	
+		<dd><a href="/pt/post/o-credo-parte-1/">O Credo (Parte 1)</a></dd>
+	
+		<dd><a href="/pt/post/mais-como-jesus-reflexoes-sobre-gentileza-bondade/">Mais como Jesus: Reflexões sobre Gentileza e Bondade</a></dd>
+	
+		<dd><a href="/pt/post/pratica-do-cristianismo-pornografia/">A Prática do Cristianismo: Os Dez Mandamentos (Pornografia)</a></dd>
+	
+		<dd><a href="/pt/post/jesus-sua-vida-e-mensagem-curando-o-cego/">Jesus — Sua Vida e Mensagem: Curando o Cego</a></dd>
+	
+		<dd><a href="/pt/post/jesus-sua-vida-e-mensagem-jesus-e-coletor-impostos/">Jesus — Sua Vida e Mensagem: Jesus e o Coletor de Impostos</a></dd>
+	
+	<dt>Post por data</dt>
+	
+	
+	
+		<dd><span class="unhide glyphicon glyphicon-plus-sign" onclick="toggle('months_2020', this)"></span>2020</dd>
+		<ul id="months_2020" class="months">
+			
+				<li><a href="/pt/2020/04/">Abril (1)</a></li>
+			
+				<li><a href="/pt/2020/03/">Março (4)</a></li>
+			
+				<li><a href="/pt/2020/02/">Fevereiro (4)</a></li>
+			
+				<li><a href="/pt/2020/01/">Janeiro (4)</a></li>
+			
+		</ul>
+	
+		<dd><span class="unhide glyphicon glyphicon-plus-sign" onclick="toggle('months_2019', this)"></span>2019</dd>
+		<ul id="months_2019" class="months">
+			
+				<li><a href="/pt/2019/12/">Dezembro (6)</a></li>
+			
+				<li><a href="/pt/2019/11/">Novembro (4)</a></li>
+			
+				<li><a href="/pt/2019/10/">Outubro (5)</a></li>
+			
+				<li><a href="/pt/2019/09/">Setembro (5)</a></li>
+			
+				<li><a href="/pt/2019/08/">Agosto (4)</a></li>
+			
+				<li><a href="/pt/2019/07/">Julho (6)</a></li>
+			
+				<li><a href="/pt/2019/06/">Junho (5)</a></li>
+			
+				<li><a href="/pt/2019/05/">Maio (5)</a></li>
+			
+				<li><a href="/pt/2019/04/">Abril (5)</a></li>
+			
+				<li><a href="/pt/2019/03/">Março (5)</a></li>
+			
+				<li><a href="/pt/2019/02/">Fevereiro (4)</a></li>
+			
+				<li><a href="/pt/2019/01/">Janeiro (3)</a></li>
+			
+		</ul>
+	
+		<dd><span class="unhide glyphicon glyphicon-plus-sign" onclick="toggle('months_2018', this)"></span>2018</dd>
+		<ul id="months_2018" class="months">
+			
+				<li><a href="/pt/2018/12/">Dezembro (5)</a></li>
+			
+				<li><a href="/pt/2018/11/">Novembro (4)</a></li>
+			
+				<li><a href="/pt/2018/10/">Outubro (5)</a></li>
+			
+				<li><a href="/pt/2018/09/">Setembro (5)</a></li>
+			
+				<li><a href="/pt/2018/08/">Agosto (4)</a></li>
+			
+				<li><a href="/pt/2018/07/">Julho (5)</a></li>
+			
+				<li><a href="/pt/2018/06/">Junho (5)</a></li>
+			
+				<li><a href="/pt/2018/05/">Maio (6)</a></li>
+			
+				<li><a href="/pt/2018/04/">Abril (4)</a></li>
+			
+				<li><a href="/pt/2018/03/">Março (5)</a></li>
+			
+				<li><a href="/pt/2018/02/">Fevereiro (5)</a></li>
+			
+				<li><a href="/pt/2018/01/">Janeiro (6)</a></li>
+			
+		</ul>
+	
+		<dd><span class="unhide glyphicon glyphicon-plus-sign" onclick="toggle('months_2017', this)"></span>2017</dd>
+		<ul id="months_2017" class="months">
+			
+				<li><a href="/pt/2017/12/">Dezembro (6)</a></li>
+			
+				<li><a href="/pt/2017/11/">Novembro (4)</a></li>
+			
+				<li><a href="/pt/2017/10/">Outubro (7)</a></li>
+			
+				<li><a href="/pt/2017/09/">Setembro (6)</a></li>
+			
+				<li><a href="/pt/2017/08/">Agosto (5)</a></li>
+			
+				<li><a href="/pt/2017/07/">Julho (4)</a></li>
+			
+				<li><a href="/pt/2017/06/">Junho (5)</a></li>
+			
+				<li><a href="/pt/2017/05/">Maio (5)</a></li>
+			
+				<li><a href="/pt/2017/04/">Abril (5)</a></li>
+			
+				<li><a href="/pt/2017/03/">Março (4)</a></li>
+			
+				<li><a href="/pt/2017/02/">Fevereiro (5)</a></li>
+			
+				<li><a href="/pt/2017/01/">Janeiro (5)</a></li>
+			
+		</ul>
+	
+		<dd><span class="unhide glyphicon glyphicon-plus-sign" onclick="toggle('months_2016', this)"></span>2016</dd>
+		<ul id="months_2016" class="months">
+			
+				<li><a href="/pt/2016/12/">Dezembro (4)</a></li>
+			
+				<li><a href="/pt/2016/11/">Novembro (5)</a></li>
+			
+				<li><a href="/pt/2016/10/">Outubro (5)</a></li>
+			
+				<li><a href="/pt/2016/09/">Setembro (4)</a></li>
+			
+				<li><a href="/pt/2016/08/">Agosto (6)</a></li>
+			
+				<li><a href="/pt/2016/07/">Julho (4)</a></li>
+			
+				<li><a href="/pt/2016/06/">Junho (4)</a></li>
+			
+				<li><a href="/pt/2016/05/">Maio (5)</a></li>
+			
+				<li><a href="/pt/2016/04/">Abril (4)</a></li>
+			
+				<li><a href="/pt/2016/03/">Março (6)</a></li>
+			
+				<li><a href="/pt/2016/02/">Fevereiro (4)</a></li>
+			
+				<li><a href="/pt/2016/01/">Janeiro (4)</a></li>
+			
+		</ul>
+	
+		<dd><span class="unhide glyphicon glyphicon-plus-sign" onclick="toggle('months_2015', this)"></span>2015</dd>
+		<ul id="months_2015" class="months">
+			
+				<li><a href="/pt/2015/12/">Dezembro (3)</a></li>
+			
+				<li><a href="/pt/2015/11/">Novembro (4)</a></li>
+			
+				<li><a href="/pt/2015/10/">Outubro (4)</a></li>
+			
+				<li><a href="/pt/2015/09/">Setembro (4)</a></li>
+			
+				<li><a href="/pt/2015/08/">Agosto (6)</a></li>
+			
+				<li><a href="/pt/2015/07/">Julho (3)</a></li>
+			
+				<li><a href="/pt/2015/06/">Junho (5)</a></li>
+			
+				<li><a href="/pt/2015/05/">Maio (4)</a></li>
+			
+				<li><a href="/pt/2015/04/">Abril (6)</a></li>
+			
+				<li><a href="/pt/2015/03/">Março (7)</a></li>
+			
+				<li><a href="/pt/2015/02/">Fevereiro (4)</a></li>
+			
+				<li><a href="/pt/2015/01/">Janeiro (4)</a></li>
+			
+		</ul>
+	
+		<dd><span class="unhide glyphicon glyphicon-plus-sign" onclick="toggle('months_2014', this)"></span>2014</dd>
+		<ul id="months_2014" class="months">
+			
+				<li><a href="/pt/2014/12/">Dezembro (8)</a></li>
+			
+				<li><a href="/pt/2014/11/">Novembro (6)</a></li>
+			
+				<li><a href="/pt/2014/10/">Outubro (3)</a></li>
+			
+				<li><a href="/pt/2014/09/">Setembro (6)</a></li>
+			
+				<li><a href="/pt/2014/08/">Agosto (4)</a></li>
+			
+				<li><a href="/pt/2014/07/">Julho (6)</a></li>
+			
+				<li><a href="/pt/2014/06/">Junho (5)</a></li>
+			
+				<li><a href="/pt/2014/05/">Maio (5)</a></li>
+			
+				<li><a href="/pt/2014/04/">Abril (6)</a></li>
+			
+				<li><a href="/pt/2014/03/">Março (6)</a></li>
+			
+				<li><a href="/pt/2014/02/">Fevereiro (3)</a></li>
+			
+				<li><a href="/pt/2014/01/">Janeiro (4)</a></li>
+			
+		</ul>
+	
+		<dd><span class="unhide glyphicon glyphicon-plus-sign" onclick="toggle('months_2013', this)"></span>2013</dd>
+		<ul id="months_2013" class="months">
+			
+				<li><a href="/pt/2013/12/">Dezembro (4)</a></li>
+			
+				<li><a href="/pt/2013/11/">Novembro (6)</a></li>
+			
+				<li><a href="/pt/2013/10/">Outubro (6)</a></li>
+			
+				<li><a href="/pt/2013/09/">Setembro (3)</a></li>
+			
+				<li><a href="/pt/2013/08/">Agosto (3)</a></li>
+			
+				<li><a href="/pt/2013/07/">Julho (4)</a></li>
+			
+				<li><a href="/pt/2013/06/">Junho (6)</a></li>
+			
+				<li><a href="/pt/2013/05/">Maio (6)</a></li>
+			
+				<li><a href="/pt/2013/04/">Abril (3)</a></li>
+			
+				<li><a href="/pt/2013/03/">Março (2)</a></li>
+			
+				<li><a href="/pt/2013/01/">Janeiro (2)</a></li>
+			
+		</ul>
+	
+		<dd><span class="unhide glyphicon glyphicon-plus-sign" onclick="toggle('months_2012', this)"></span>2012</dd>
+		<ul id="months_2012" class="months">
+			
+				<li><a href="/pt/2012/12/">Dezembro (5)</a></li>
+			
+				<li><a href="/pt/2012/11/">Novembro (6)</a></li>
+			
+				<li><a href="/pt/2012/10/">Outubro (6)</a></li>
+			
+				<li><a href="/pt/2012/09/">Setembro (5)</a></li>
+			
+				<li><a href="/pt/2012/08/">Agosto (5)</a></li>
+			
+				<li><a href="/pt/2012/07/">Julho (6)</a></li>
+			
+				<li><a href="/pt/2012/06/">Junho (5)</a></li>
+			
+				<li><a href="/pt/2012/05/">Maio (6)</a></li>
+			
+				<li><a href="/pt/2012/04/">Abril (4)</a></li>
+			
+				<li><a href="/pt/2012/03/">Março (1)</a></li>
+			
+				<li><a href="/pt/2012/02/">Fevereiro (2)</a></li>
+			
+				<li><a href="/pt/2012/01/">Janeiro (3)</a></li>
+			
+		</ul>
+	
+		<dd><span class="unhide glyphicon glyphicon-plus-sign" onclick="toggle('months_2011', this)"></span>2011</dd>
+		<ul id="months_2011" class="months">
+			
+				<li><a href="/pt/2011/12/">Dezembro (4)</a></li>
+			
+				<li><a href="/pt/2011/11/">Novembro (7)</a></li>
+			
+				<li><a href="/pt/2011/10/">Outubro (4)</a></li>
+			
+				<li><a href="/pt/2011/09/">Setembro (2)</a></li>
+			
+				<li><a href="/pt/2011/08/">Agosto (6)</a></li>
+			
+				<li><a href="/pt/2011/07/">Julho (4)</a></li>
+			
+				<li><a href="/pt/2011/06/">Junho (3)</a></li>
+			
+				<li><a href="/pt/2011/05/">Maio (7)</a></li>
+			
+				<li><a href="/pt/2011/04/">Abril (6)</a></li>
+			
+				<li><a href="/pt/2011/03/">Março (4)</a></li>
+			
+				<li><a href="/pt/2011/02/">Fevereiro (3)</a></li>
+			
+				<li><a href="/pt/2011/01/">Janeiro (2)</a></li>
+			
+		</ul>
+	
+		<dd><span class="unhide glyphicon glyphicon-plus-sign" onclick="toggle('months_2010', this)"></span>2010</dd>
+		<ul id="months_2010" class="months">
+			
+				<li><a href="/pt/2010/12/">Dezembro (4)</a></li>
+			
+				<li><a href="/pt/2010/10/">Outubro (4)</a></li>
+			
+				<li><a href="/pt/2010/09/">Setembro (3)</a></li>
+			
+		</ul>
+	
+	<dt>Post por tag<span class="unhide glyphicon glyphicon-plus-sign" onclick="toggle('hidden-tags', this)"></span></dt>
+	
+	<dd>
+		<ul class="column1">
+			
+				
+				<li><a href="/pt/tag/peter/">peter amsterdam (397)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/teologia/">teologia (211)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/biblia/">bíblia (190)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/maria/">maria fontaine (130)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/jesus-sua-vida-e-mensagem/">jesus—sua vida e mensagem (123)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/relacionamento-com-o-senhor/">relacionamento com o senhor (99)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/jesus/">jesus (85)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/missao/">missão (69)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/amor/">amor (53)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/natureza-de-cristo/">natureza de cristo (53)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/essencia-de-tudo/">essência de tudo (50)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/mais-como-jesus/">mais como jesus (43)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/natal/">natal (42)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/fe/">fé (41)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/valores-centrais/">valores centrais (37)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/natureza-de-deus/">natureza divina (37)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/salvacao/">salvação (33)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/video/">vídeos (33)</a></li>
+				
+			
+				
+					</ul>
+					<div id="hidden-tags">
+						<ul class="column1">
+				
+				<li><a href="/pt/tag/alcancar-os-outros/">testemunhar (32)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/historias-que-jesus-contou/">histórias que jesus contou (30)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/testemunhos/">testemunhos (30)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/orac/">oração (29)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/moral/">moral (26)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/dez-mandamentos/">dez mandamentos (26)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/proposito-central/">propósito central (25)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/dificuldade/">dificuldades (25)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/encor/">encorajamento (25)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/etica/">ética (24)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/pratica-do-cristianismo/">prática do cristianismo (24)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/discipulado/">discipulado (24)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/milagres/">milagres (23)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/pequenas-coisas/">pequenas coisas (21)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/dar/">dar (19)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/disciplinas-espirituais/">disciplinas espirituais (18)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/promessas/">promessas de deus (17)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/louvor/">louvor e gratidão (16)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/confianca/">confiança (15)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/pascoa/">páscoa (15)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/seguir-deus/">seguir a deus (15)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/cura/">cura (15)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/de-jesus/">de jesus (14)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/pecado/">pecado (14)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/perdao/">perdão (13)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/espirito-santo/">espírito santo (13)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/altruismo/">altruísmo (13)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/gratidao/">gratidão (11)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/humildade/">humildade (10)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/paciencia/">paciência (10)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/reflexao/">reflexão (10)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/amar-viver-pregar-ensinar/">amar viver pregar ensinar (10)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/saude-e-enfermidade/">saúde e enfermidade (9)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/audio/">áudio (9)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/tomar-decisoes/">decisões e escolhas (9)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/pen/">pensamento positivo (9)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/videos-valores-centrais/">vídeos valores centrais (9)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/elogio/">elogios (8)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/perseveranca/">perseverança (8)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/casamento/">casamento (8)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/frutos-do-espirito/">frutos do espírito (8)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/amizade/">amizade (7)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/analise-do-equilibrio-da-vida/">análise do equilíbrio da vida (7)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/trindade/">trindade (7)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/equilibrio/">equilíbrio (7)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/graca/">graça (7)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/felicidade/">felicidade (7)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/viver-com-sentido/">viver com sentido (6)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/formula-de-cinco/">fórmula de cinco (6)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/relacoes-interpessoais/">relações interpessoais (6)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/gentileza-e-cordialidade/">gentileza e cordialidade (6)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/palavra-de-deus/">palavras de deus (6)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/valores/">valores (6)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/recompensas/">recompensas (5)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/julgamentalismo/">juízo de valor (5)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/envelhecimento/">envelhecimento (5)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/humanidade/">humanidade (5)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/convivio/">convívio (5)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/protecao/">cuidado e proteção de deus (4)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/alegria/">alegria (4)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/honestidade/">sinceridade e franqueza (4)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/alianca/">aliança (4)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/anuncios/">anúncios (4)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/gestao-de-tempo/">gestão de tempo (4)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/mudanca/">mudança (4)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/fotos/">fotos (4)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/compaixao/">compaixão (4)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/tragedias-e-transformacoes/">tragédias e transformações (4)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/paz/">paz (4)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/efeitos-do-cristianismo/">efeitos do cristianismo (4)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/comunidade/">comunidade (4)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/mulheres-de-fe/">mulheres de fé (4)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/exercicio-e-boa-forma/">exercício e boa forma (4)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/fidelidade/">fidelidade (4)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/criancas/">crianças (3)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/evangelizar-contando-historias-da-biblia/">evangelizar contando histórias da bíblia (3)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/conforto/">consolo (3)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/descansar-no-senhor/">descansar no senhor (3)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/orgulho/">orgulho (3)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/criacao/">criação (3)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/exemplo/">exemplo (3)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/autodisciplina/">autodisciplina (3)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/esperanca/">esperança (3)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/estresse/">estresse (2)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/dons-do-espirito/">dons do espírito (2)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/autodeterminacao/">autodeterminação (2)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/morte-e-vida-apos-morte/">morte e vida após a morte (2)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/educacao/">educação (2)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/gentileza/">gentileza (2)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/apostolo-pedro/">apóstolo pedro (2)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/bondade/">bondade (2)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/oposicao-e-perseguicao/">oposição e perseguição (2)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/etica-profissional/">ética de trabalho (2)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/pais/">cuidar dos filhos (2)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/ano-novo/">ano novo (2)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/ouvir-do-senhor/">ouvir deus (2)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/uniao/">união (2)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/suicidio/">suicídio (2)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/mulheres/">mulheres (2)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/financas/">finanças (2)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/juventude/">juventude (2)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/dar-fruto/">produtividade (1)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/habilidades-para-estudar/">habilidades para estudar (1)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/ressurreicao/">ressurreição (1)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/higiene-bucal/">higiene bucal (1)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/seguranca-divina/">segurança divina (1)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/preocupacao/">preocupação (1)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/noticias/">notícias da tfi (1)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/credo/">credo (1)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/profissionalismo/">professionalismo (1)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/folhetos/">folhetos (1)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/networking-e-parcerias/">network e colaboração (1)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/animais-e-bichinhos-de-estimacao/">animais e bichinhos de estimação (1)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/pro/">provisão (1)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/guerra/">guerra (1)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/fator-deus/">fator deus (1)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/dar-o-dizimo/">dar o dízimo (1)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/de-voces/">leitores (1)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/gravidez/">gravidez (1)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/doutrina-da-familia/">doutrina da tfi (1)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/ceu/">céu (1)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/desencorajamento/">desencorajamento (1)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/integridade/">integridade (1)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/pedido-de-oracao/">pedidos de oração (1)</a></li>
+				
+			
+				
+				<li><a href="/pt/tag/poemas-e-poesia/">poemas e poesia (1)</a></li>
+				
+					</div>
+				
+			
+		</ul>
+	</dd>
+
+                </dl>
+            </nav>
+        </div> <!--/right sidebar column-->
+        
+
+    </div> <!--/row-->
+
+    <div class="row">
+        <div class="col-xs-12 col-sm-9">
+            
+<div id="next_prev">
+    <a href="/pt/post/mais-como-jesus-benignidade-e-bondade/" id="next" title="Posts mais recentes: Mais como Jesus: Benignidade e Bondade"> Posts mais recentes &raquo;</a>
+    <a href="/pt/post/mais-como-jesus-paz/" id="prev" title="Post mais antigos Mais como Jesus: Paz">&laquo; Post antigos</a>
+</div>
+
+        </div>
+    </div> <!--/row-->
+
+        
+        <footer id="pagefooter">
+            
+  <ul>
+
+	<li><a href="/pt/subscribe/">Inscrever</a><span>|</span></li>
+      <li><a href="/pt/rss/">RSS</a><span>&bull;</span></li>
+      <li><a href="/?check_auth">English</a><span>|</span></li>
+      <li><a href="/ja/?check_auth">日本語</a><span>|</span></li>
+      <li><a href="/es/?check_auth">Español</a><span>|</span></li>
+      <li><a href="/it/?check_auth">Italiano</a><span>|</span></li>
+      <li><a href="/fr/?check_auth">Français</a><span>|</span></li>
+      <li><a href="/th/?check_auth">ไทย</a><span></span></li>
+  </ul>
+
+            <p>
+Copyright &copy; 2020 The Family International.
+<span style="margin-left: 30px;"><a style="text-transform:none;" href="https://portal.tfionline.com/pt/policies/privacy-policy" target="_blank">Política de Privacidade</a></span>
+<span style="margin-left: 30px;"><a style="text-transform:none;" href="https://portal.tfionline.com/pt/policies/cookie-policy" target="_blank">Política de Cookies</a></span>
+</p>
+            <p id="design-credit">design de DPB &ndash; Design Pro Business</p>
+        </footer>
+        
+    
+    </div>
+
+</div> <!--/outer container-->
+
+</body>
+
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+<script>
+var cookie_message = "Nós usamos cookies para compreender como você usa o nosso site e lhe proporcionar uma melhor experiência. <a aria-label=\"Política de privacidade de AFI Online\" role=\"button\" tabindex=\"9\" class=\"cc-link\" href=\"https://portal.tfionline.com/pt/policies/privacy-policy\" target=\"_blank\">Política de privacidade de AFI Online</a>";
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+    "palette": {
+        "popup": {
+            "background": "#859d4c",
+            "text": "#000000"
+        },
+        "button": {
+            "background": "#d4debb",
+            "text": "#000000"
+        }
+    },
+    "cookie": {
+        "name": "directors_cookieconsent"
+    },
+    "content": {
+        "message": cookie_message,
+        "dismiss": "Aceito",
+        "link": "Política de Cookies de AFI Online",
+        "href": "https://portal.tfionline.com/pt/policies/cookie-policy"
+    }
+})});
+</script>
+
+</html>

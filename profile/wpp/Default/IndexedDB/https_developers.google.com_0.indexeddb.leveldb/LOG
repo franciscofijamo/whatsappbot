@@ -1,0 +1,5 @@
+2020/04/15-19:36:08.661 9354 Reusing MANIFEST C:\Users\AL\Documents\2020 - Programacao\Training Python\chatbot\chatbot\profile\wpp\Default\IndexedDB\https_developers.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/04/15-19:40:43.005 5118 Level-0 table #5: started
+2020/04/15-19:40:43.351 5118 Level-0 table #5: 3102 bytes OK
+2020/04/15-19:40:43.518 5118 Delete type=0 #3
+2020/04/15-19:40:43.518 5118 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
