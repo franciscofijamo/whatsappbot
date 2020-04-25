@@ -1,3 +1,1 @@
-Web Crwling de Vagas de emprego em Mozmbique
-
-Codigo para busca de vahas nos principais  sites de vagas publicas em Mozambique.
+# Bot Whatasapp com Selenium Webdriver para Pesquisas na wikipedia atráves de chat de Whatasapp.
